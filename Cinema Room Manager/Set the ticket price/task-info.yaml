@@ -6,10 +6,9 @@ files:
   - name: test/cinema/CinemaTest.java
     visible: true
     learner_created: true
-feedback_link: https://hyperskill.org/projects/133/stages/711/implement#comment
-status: Unchecked
-feedback:
-  message: "No tests have run. For more information, see <a href=\"https://plugins.jetbrains.com/plugin/10081-jetbrains-academy/docs/troubleshooting-guide.html#no_tests_have_run\"\
-    >the Troubleshooting guide</a>"
-  time: "Sun, 23 Mar 2025 00:15:26 UTC"
+  - name: test/CinemaTests.java
+    visible: false
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/11107#comment
+status: Failed
 record: 2
