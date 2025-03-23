@@ -3,12 +3,13 @@ files:
   - name: src/cinema/Cinema.java
     visible: true
     learner_created: false
-  - name: test/CinemaTests.java
-    visible: false
-    learner_created: false
+  - name: test/cinema/CinemaTest.java
+    visible: true
+    learner_created: true
 feedback_link: https://hyperskill.org/projects/133/stages/711/implement#comment
-status: Solved
+status: Unchecked
 feedback:
-  message: Congratulations!
-  time: "Sat, 22 Mar 2025 22:59:49 UTC"
+  message: "No tests have run. For more information, see <a href=\"https://plugins.jetbrains.com/plugin/10081-jetbrains-academy/docs/troubleshooting-guide.html#no_tests_have_run\"\
+    >the Troubleshooting guide</a>"
+  time: "Sun, 23 Mar 2025 00:15:26 UTC"
 record: 2
